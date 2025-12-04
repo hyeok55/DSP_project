@@ -79,19 +79,6 @@ Tasks:
 
 ---
 
-## **3. Monitoring Dashboard (`dashboard.ipynb`)**
-
-```bash
-jupyter notebook src/dashboard.ipynb
-```
-
-Features:
-
-* Flask-based real-time monitoring system
-* Visualizes 10-minute-ahead temperature predictions
-
----
-
 # **Key Results**
 
 ## **Statistical Analysis**
